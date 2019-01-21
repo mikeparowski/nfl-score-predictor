@@ -1,0 +1,7 @@
+/test/*
+/models/*
+/notes.txt
+/scores/*
+/nfl_stats.pkl
+.ipynb_checkpoints/
+__pycache__
